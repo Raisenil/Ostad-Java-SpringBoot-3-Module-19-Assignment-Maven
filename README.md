@@ -13,3 +13,7 @@
 - `git add README.md` - Add README
 - `git commit -m "Add README with commands"` - Commit README
 - `git push` - Push README
+
+### Build Command
+
+- `./mvnw clean package` - Build the project
